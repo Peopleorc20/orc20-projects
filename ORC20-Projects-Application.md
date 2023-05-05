@@ -11,4 +11,5 @@
 | Logo URL      |                         |
 | Website       |                         |
 | Twitter       |                         |
+| Other Links   |                         |
 | Comment       |                         |
